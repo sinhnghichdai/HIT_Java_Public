@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a799ec4-2f9e-44a4-b5eb-19c12ef5f025" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entiny/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FirstProjectJava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FirstProjectJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FirstProjectJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FirstProjectJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FirstProjectJava/FirstProjectJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FirstProjectJava/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="30jkV7bWUb2iz4FmMuSxP3prUfI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/Java/Buoi4_test/src/Bai3"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a799ec4-2f9e-44a4-b5eb-19c12ef5f025" name="Changes" comment="" />
+      <created>1754148389569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754148389569</updated>
+    </task>
+    <servers />
+  </component>
+</project>
